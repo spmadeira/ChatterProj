@@ -54,3 +54,5 @@ gem "redis", "~> 4.1"
 gem "cable_ready", "~> 4.1"
 gem "stimulus_reflex", "~> 3.2"
 gem "pry-rails"
+
+gem "devise", "~> 4.7"
